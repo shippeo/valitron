@@ -1,5 +1,5 @@
 {
-    "name": "vlucas/valitron",
+    "name": "shippeo/valitron",
     "type": "library",
     "description": "Simple, elegant, stand-alone validation library with NO dependencies",
     "keywords": ["validation", "validator", "valid"],
